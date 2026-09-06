@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --natural-bg: #F5F5F0;
+    --natural-text: #1A1A1A;
+    --natural-olive: #5A5A40;
+    --natural-olive-dark: #4A4A35;
+  }
+
+  body {
+    background-color: #F5F5F0;
+    color: #1A1A1A;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.01em;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Natural Tones custom utility helpers */
+.bg-natural-bg {
+  background-color: #F5F5F0;
+}
+
+.text-natural-olive {
+  color: #5A5A40;
+}
+
+.bg-natural-olive {
+  background-color: #5A5A40;
+}
+
+.hover\:bg-natural-olive-dark:hover {
+  background-color: #4A4A35;
+}
+
+.border-natural-olive {
+  border-color: #5A5A40;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CCTV Security Services Platform",
+  "description": "Comprehensive CCTV security platform with camera comparison, AMC contracts, 4-step recharge wizard, and lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
