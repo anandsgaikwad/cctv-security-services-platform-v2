@@ -95,7 +95,7 @@ Updates pushed to the `main` branch can automatically trigger the deployment wor
 
 ## Live Website
 
-**[Visit Live Website](https://anandgaikwad.github.io/cctv-security-services-platform-v2/)**
+**[Visit Live Website]([https://anandgaikwad.github.io/cctv-security-services-platform-v2/](https://anandsgaikwad.github.io/cctv-security-services-platform-v2/)**
 
 ## Security
 
